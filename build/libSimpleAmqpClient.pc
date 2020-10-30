@@ -1,0 +1,12 @@
+prefix=C:/Program Files (x86)/SimpleAmqpClient
+exec_prefix=${prefix}
+libdir=
+includedir=${prefix}/include
+
+Name: SimpleAmqpClient
+Description: C++ wrapper of rabbitmq-c AMQP client library
+Version: 2.6.0
+Requires.private: librabbitmq
+Libs: -L${libdir} -lSimpleAmqpClient
+Libs.private: 
+CFlags: -I${includedir}

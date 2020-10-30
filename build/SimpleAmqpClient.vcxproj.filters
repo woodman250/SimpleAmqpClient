@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\work\SimpleAmqpClient-3\src\AmqpException.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\work\SimpleAmqpClient-3\src\Channel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\work\SimpleAmqpClient-3\src\ChannelImpl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\work\SimpleAmqpClient-3\src\BasicMessage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\work\SimpleAmqpClient-3\src\AmqpLibraryException.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\work\SimpleAmqpClient-3\src\AmqpResponseLibraryException.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\work\SimpleAmqpClient-3\src\Envelope.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\work\SimpleAmqpClient-3\src\MessageReturnedException.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\work\SimpleAmqpClient-3\src\Table.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\work\SimpleAmqpClient-3\src\TableImpl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\work\SimpleAmqpClient-3\src\SimpleAmqpClient\SimpleAmqpClient.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\work\SimpleAmqpClient-3\src\SimpleAmqpClient\AmqpException.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\work\SimpleAmqpClient-3\src\SimpleAmqpClient\Channel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\work\SimpleAmqpClient-3\src\SimpleAmqpClient\ChannelImpl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\work\SimpleAmqpClient-3\src\SimpleAmqpClient\BasicMessage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\work\SimpleAmqpClient-3\src\SimpleAmqpClient\Util.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\work\SimpleAmqpClient-3\src\SimpleAmqpClient\AmqpLibraryException.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\work\SimpleAmqpClient-3\src\SimpleAmqpClient\AmqpResponseLibraryException.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\work\SimpleAmqpClient-3\src\SimpleAmqpClient\BadUriException.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\work\SimpleAmqpClient-3\src\SimpleAmqpClient\ConnectionClosedException.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\work\SimpleAmqpClient-3\src\SimpleAmqpClient\ConsumerTagNotFoundException.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\work\SimpleAmqpClient-3\src\SimpleAmqpClient\MessageRejectedException.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\work\SimpleAmqpClient-3\src\SimpleAmqpClient\Envelope.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\work\SimpleAmqpClient-3\src\SimpleAmqpClient\MessageReturnedException.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\work\SimpleAmqpClient-3\src\SimpleAmqpClient\Table.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\work\SimpleAmqpClient-3\src\SimpleAmqpClient\TableImpl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\work\SimpleAmqpClient-3\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{02E3556F-116B-3E4C-8EF7-E62B8052EC15}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0A96854E-8857-33AB-8501-775E0A95B8C2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
